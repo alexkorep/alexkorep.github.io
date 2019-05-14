@@ -4,7 +4,7 @@
   "theme_color": "#2196f3",
   "background_color": "#FFFFFF",
   "display": "fullscreen",
-  "start_url": ".",
+  "start_url": "/camera",
   "icons": [
     {
       "src": "img/icons/icon-72x72.png",
