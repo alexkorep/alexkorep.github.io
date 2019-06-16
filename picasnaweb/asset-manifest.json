@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/picasnaweb/static/css/main.8e494e79.chunk.css",
+    "main.js": "/picasnaweb/static/js/main.9634fb3e.chunk.js",
+    "main.js.map": "/picasnaweb/static/js/main.9634fb3e.chunk.js.map",
+    "runtime~main.js": "/picasnaweb/static/js/runtime~main.59e03257.js",
+    "runtime~main.js.map": "/picasnaweb/static/js/runtime~main.59e03257.js.map",
+    "static/js/2.136ec0fb.chunk.js": "/picasnaweb/static/js/2.136ec0fb.chunk.js",
+    "static/js/2.136ec0fb.chunk.js.map": "/picasnaweb/static/js/2.136ec0fb.chunk.js.map",
+    "index.html": "/picasnaweb/index.html",
+    "precache-manifest.99055a79d52dc16c5af8285f60eeda34.js": "/picasnaweb/precache-manifest.99055a79d52dc16c5af8285f60eeda34.js",
+    "service-worker.js": "/picasnaweb/service-worker.js",
+    "static/css/main.8e494e79.chunk.css.map": "/picasnaweb/static/css/main.8e494e79.chunk.css.map"
+  }
+}
