@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/picasnaweb/precache-manifest.99055a79d52dc16c5af8285f60eeda34.js"
+  "/picasnaweb/precache-manifest.7ec75b9f08351da6abb265961761e8e1.js"
 );
 
 self.addEventListener('message', (event) => {
