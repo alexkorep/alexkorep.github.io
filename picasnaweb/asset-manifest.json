@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/picasnaweb/static/css/main.8e494e79.chunk.css",
-    "main.js": "/picasnaweb/static/js/main.4bffcda5.chunk.js",
-    "main.js.map": "/picasnaweb/static/js/main.4bffcda5.chunk.js.map",
+    "main.css": "/picasnaweb/static/css/main.b8a316a3.chunk.css",
+    "main.js": "/picasnaweb/static/js/main.194d476b.chunk.js",
+    "main.js.map": "/picasnaweb/static/js/main.194d476b.chunk.js.map",
     "runtime~main.js": "/picasnaweb/static/js/runtime~main.59e03257.js",
     "runtime~main.js.map": "/picasnaweb/static/js/runtime~main.59e03257.js.map",
     "static/js/2.136ec0fb.chunk.js": "/picasnaweb/static/js/2.136ec0fb.chunk.js",
     "static/js/2.136ec0fb.chunk.js.map": "/picasnaweb/static/js/2.136ec0fb.chunk.js.map",
     "index.html": "/picasnaweb/index.html",
-    "precache-manifest.7ec75b9f08351da6abb265961761e8e1.js": "/picasnaweb/precache-manifest.7ec75b9f08351da6abb265961761e8e1.js",
+    "precache-manifest.13dd0313f96f98f0ba7199c968990863.js": "/picasnaweb/precache-manifest.13dd0313f96f98f0ba7199c968990863.js",
     "service-worker.js": "/picasnaweb/service-worker.js",
-    "static/css/main.8e494e79.chunk.css.map": "/picasnaweb/static/css/main.8e494e79.chunk.css.map"
+    "static/css/main.b8a316a3.chunk.css.map": "/picasnaweb/static/css/main.b8a316a3.chunk.css.map"
   }
 }
